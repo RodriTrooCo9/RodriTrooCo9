@@ -93,7 +93,6 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
-### Badges
 
 <b>My GitHub Stats</b>
 
@@ -102,18 +101,19 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://github.com/RodriTrooCo9">
-    <img src="https://github-readme-stats.vercel.app/api?username=RodriTrooCo9&show_icons=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="RodriTrooCo9's GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RodriTrooCo9&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RodriTrooCo9's GitHub stats" height="180"/>
   </a>
 
   <a href="https://github.com/RodriTrooCo9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriTrooCo9&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=58a6ff&dates=c9d1d9&hide_border=true&stroke=58a6ff" alt="GitHub Streak" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=RodriTrooCo9&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
   </a>
 
   <a href="https://github.com/RodriTrooCo9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriTrooCo9&langs_count=8&layout=compact&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriTrooCo9&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Top%20Languages" alt="Top Languages" height="180"/>
   </a>
 
 </div>
+<br />
 <br />
 <b>Top Repositories</b>
 
@@ -122,8 +122,6 @@
   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
   </a>
-   <a href="https://github.com/RodriTrooCo9/rest-microservicios_NestJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=https://github.com/RodriTrooCo9/rest-microservicios_NestJS&theme=radical&border_radius=10" alt="microservicios_NestJS" />
   </a>
    <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
@@ -133,3 +131,4 @@
 <br />
 
 ---
+
