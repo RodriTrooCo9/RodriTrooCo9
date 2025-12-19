@@ -97,15 +97,40 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/RodriTrooCo9"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/RodriTrooCo9&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=64748b&bg_color=7c2d12&hide_border=true&show_icons=true" alt="https://github.com/RodriTrooCo9's GitHub stats" /></a>
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/RodriTrooCo9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/RodriTrooCo9&stroke=64748b&background=7c2d12&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<a href="https://github.com/https://github.com/RodriTrooCo9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RodriTrooCo9&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=64748b&bg_color=7c2d12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/RodriTrooCo9">
+    <img src="https://github-readme-stats.vercel.app/api?username=RodriTrooCo9&show_icons=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="RodriTrooCo9's GitHub stats" height="180"/>
+  </a>
 
+  <a href="https://github.com/RodriTrooCo9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriTrooCo9&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=58a6ff&dates=c9d1d9&hide_border=true&stroke=58a6ff" alt="GitHub Streak" height="180"/>
+  </a>
+
+  <a href="https://github.com/RodriTrooCo9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriTrooCo9&langs_count=8&layout=compact&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" height="180"/>
+  </a>
+
+</div>
+<br />
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
+  <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
+  </a>
+   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
+  </a>
+   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
+  </a>
+
+</div>
+<br />
 
 ### Support Me
 
@@ -151,4 +176,5 @@
   </a>
 
 </div>
+
 
