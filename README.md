@@ -124,12 +124,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=rest-microservicios_NestJS&theme=radical&border_radius=10" alt="rest-microservicios_NestJS" />
   </a>
     <a href="https://github.com/RodriTrooCo9/miau">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=miautheme=radical&border_radius=10" alt="miau" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=miau&theme=radical&border_radius=10" alt="miau" />
   </a>
 
 </div>
 <br />
 
 ---
+
 
 
