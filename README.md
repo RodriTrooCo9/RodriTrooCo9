@@ -56,15 +56,19 @@
   </a>
 
 </div>
-<h5>
-  Desarrollador con capacidad para traducir requerimientos complejos en soluciones funcionales. Experiencia combinada en desarrollo Backend/Frontend y capacitación de equipos. Competente en la implementación de metodologías ágiles y modernización de sistemas a tecnologías actuales.
-</h5>
-<h3>
-🌍  I'm based in Bolivia
-<br>
-✉️  You can contact me at adelabarra73@gmail.com
-<br>
-</h3>
+<div align="center">
+  <h3>👋 Sobre mí</h3>
+  <p>
+    Desarrollador con la capacidad de transformar requerimientos complejos en soluciones de software escalables. 
+    Cuento con experiencia híbrida en <b>Backend/Frontend</b> y liderazgo técnico. 
+    Especialista en metodologías ágiles y modernización de sistemas legacy a tecnologías de vanguardia.
+  </p>
+  
+  <p>
+    🌍 <b>Ubicación:</b> Bolivia <br>
+    ✉️ <b>Contacto:</b> <a href="mailto:adelabarra73@gmail.com">adelabarra73@gmail.com</a>
+  </p>
+</div>
 
 ### tecnologias
 <p align="left">
@@ -93,7 +97,8 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
---------------------------------
+
+---
 
 <b>My GitHub Stats</b>
 
@@ -131,6 +136,7 @@
 <br />
 
 ---
+
 
 
 
