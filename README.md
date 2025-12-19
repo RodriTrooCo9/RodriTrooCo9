@@ -11,7 +11,7 @@
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
   
-  <a href="https://github.com/TU_USUARIO" target="_blank">
+  <a href="https://github.com/RodriTrooCo9" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
   </a>
 
@@ -19,39 +19,39 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="40" alt="GitLab"/>
   </a>
 
-  <a href="https://stackoverflow.com/users/TU_ID" target="_blank">
+  <a href="https://stackoverflow.com/users/22057630/alvaro-de-la-barra" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" alt="Stack Overflow"/>
   </a>
 
-  <a href="https://linkedin.com/in/TU_PERFIL" target="_blank">
+  <a href="https://linkedin.com/in/alvaro-de-la-barra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:tu@gmail.com" target="_blank">
+  <a href="mailto:adelabarra73@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
   </a>
 
-  <a href="https://wa.me/591NUMERO" target="_blank">
+  <a href="https://wa.me/+591 77280578" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/>
   </a>
 
-  <a href="https://t.me/TU_USUARIO" target="_blank">
+  <a href="https://t.me/@RodriTrooco" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram"/>
   </a>
 
-  <a href="https://discord.com/users/TU_ID" target="_blank">
+  <a href="https://discord.com/users/rodrigo._." target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Discord"/>
   </a>
 
-  <a href="https://youtube.com/@TU_CANAL" target="_blank">
+  <a href="https://youtube.com/@alvarodelabarra1822" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" alt="YouTube"/>
   </a>
 
-  <a href="https://facebook.com/TU_PERFIL" target="_blank">
+  <a href="https://facebook.com/alvaro.rodrigo.de.la.barra" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="Facebook"/>
   </a>
 
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
+  <a href="https://twitter.com/@alvarodelabarr3" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X"/>
   </a>
 
@@ -131,6 +131,7 @@
 <br />
 
 ---
+
 
 
 
