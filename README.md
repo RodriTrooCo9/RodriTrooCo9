@@ -122,8 +122,8 @@
   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
   </a>
-   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
+   <a href="https://github.com/RodriTrooCo9/rest-microservicios_NestJS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=https://github.com/RodriTrooCo9/rest-microservicios_NestJS&theme=radical&border_radius=10" alt="microservicios_NestJS" />
   </a>
    <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
@@ -132,50 +132,4 @@
 </div>
 <br />
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/cc"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
-
-----
-
-
-<div align="center" style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-
-  <a href="https://www.buymeacoffee.com/dc" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" style="margin-right: 5px;"/>
-  </a>
-
-  <a href="https://www.ko-fi.com/cc" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Ko-fi" height="40" style="margin-right: 15px;"/>
-  </a>
-
-  <a href="mailto:tu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" style="margin-right: 5px;"/>
-  </a>
-
-  <a href="https://wa.me/591NUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" style="margin-right: 5px;"/>
-  </a>
-
-  <a href="https://t.me/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram" style="margin-right: 5px;"/>
-  </a>
-
-  <a href="https://facebook.com/TU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" alt="Facebook" style="margin-right: 5px;"/>
-  </a>
-
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X" style="margin-right: 5px;"/>
-  </a>
-
-</div>
-
-
-
+---
