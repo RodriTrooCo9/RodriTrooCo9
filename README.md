@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
   Hi My name is rodrigo(Rodritrocco)</h1> 
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=DFF5F7&background=EFFFFC00&repeat=false&random=true&width=600&height=62&separator=%3C&lines=print('hello+world')%3Cconsole.log(%22Hi+there%22)%3CSystem.out.println(%22hello+word%22)%3C+Console.WriteLine(%22Hi+there!%22);" alt="Typing SVG" />
-</a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=DFF5F7&background=EFFFFC00&width=600&height=62&separator=%3C&lines=print('hello+world')%3Cconsole.log(%22Hi+there%22)%3CSystem.out.println(%22hello+world%22)%3C+Console.WriteLine(%22Hi+there!%22);" alt="Typing SVG" /></a>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br>
@@ -176,5 +176,6 @@
   </a>
 
 </div>
+
 
 
