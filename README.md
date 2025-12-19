@@ -93,8 +93,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
 </p>
-
-<b>My GitHub Stats</b>
+--------------------------------
 
 <b>My GitHub Stats</b>
 
@@ -102,10 +101,6 @@
 
   <a href="https://github.com/RodriTrooCo9">
     <img src="https://github-readme-stats.vercel.app/api?username=RodriTrooCo9&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RodriTrooCo9's GitHub stats" height="180"/>
-  </a>
-
-  <a href="https://github.com/RodriTrooCo9">
-    <img src="https://streak-stats.demolab.com?user=RodriTrooCo9&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
   </a>
 
   <a href="https://github.com/RodriTrooCo9">
@@ -122,13 +117,19 @@
   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
   </a>
+   <a href="https://github.com/RodriTrooCo9/logistica-y-transporte-NODE-y-REACT-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=logistica-y-transporte-NODE-y-REACT-&theme=radical&border_radius=10" alt="logistica-y-transporte-NODE-y-REACT-" />
   </a>
-   <a href="https://github.com/RodriTrooCo9/BackEndConsultorio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=BackEndConsultorio&theme=radical&border_radius=10" alt="BackEndConsultorio" />
+    <a href="https://github.com/RodriTrooCo9/rest-microservicios_NestJS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=rest-microservicios_NestJS&theme=radical&border_radius=10" alt="rest-microservicios_NestJS" />
+  </a>
+    <a href="https://github.com/RodriTrooCo9/miau">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RodriTrooCo9&repo=miautheme=radical&border_radius=10" alt="miau" />
   </a>
 
 </div>
 <br />
 
 ---
+
 
